@@ -8,7 +8,7 @@ b. s consists of only lowercase English letters.<br><br>
 **Example 1:**<br>
 **Input:** s = "leetcode"<br>
 **Output:** 0<br>
-**code** [Link]()
+**code** [Link](https://github.com/Srijana1425/UniqueCharacter/blob/main/ans.js)<br>
 ![example1]()
 
 ****************************************************************************************************************************
