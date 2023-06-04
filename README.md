@@ -9,17 +9,17 @@ b. s consists of only lowercase English letters.<br><br>
 **Input:** s = "leetcode"<br>
 **Output:** 0<br>
 **code** [Link](https://github.com/Srijana1425/UniqueCharacter/blob/main/ans.js)<br>
-![example1]()
+![example1](https://github.com/Srijana1425/UniqueCharacter/blob/main/img/example1.png)
 
 ****************************************************************************************************************************
 **Example 2:**<br>
 **Input:** s = "loveleetcode"<br>
 **Output:** 2<br><br>
-![example2]()
+![example2](https://github.com/Srijana1425/UniqueCharacter/blob/main/img/example2.png)
 ****************************************************************************************************************************
 **Example 3:**<br>
 **Input:** s = "aabb"<br>
 **Output:** -1<br>
-![example3]()
+![example3](https://github.com/Srijana1425/UniqueCharacter/blob/main/img/example3.png)
 
 
